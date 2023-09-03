@@ -22,3 +22,7 @@
 |volley ball|Helps to increase body strenght|11hrs|
 |walking|helps to readuce fat|6hrs|
 |cricket|help to gain energy|13hrs|
+
+# Pitty Quotes
+>"Try not to become a man of success, but rather try to become a man of value.”-Albert Einsterin"><br>
+>"The difference between stupidity and genius is that genius has its limits".-Albert Einstein<br>
