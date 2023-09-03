@@ -9,4 +9,7 @@
 2. playing the game
 3. takeing the pictures
 
-
+# unorderd list
+- leamon tea
+- noodels
+- coke
