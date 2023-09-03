@@ -13,3 +13,12 @@
 - leamon tea
 - noodels
 - coke
+
+>[link to MyStat](https://github.com/jamsheeraslamshaik/my2-shaik/blob/main/MyStat.md)
+
+|Sport or game|Reason|Hours per Week|
+| :---: | :---: | :---: |
+|Running|Improves the physic|3hrs|
+|volley ball|Helps to increase body strenght|11hrs|
+|walking|helps to readuce fat|6hrs|
+|cricket|help to gain energy|13hrs|
