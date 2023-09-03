@@ -26,3 +26,17 @@
 # Pitty Quotes
 >"Try not to become a man of success, but rather try to become a man of value.”-Albert Einsterin"><br>
 >"The difference between stupidity and genius is that genius has its limits".-Albert Einstein<br>
+
+# code Fencing
+```$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+  .fadeOut(1000)
+  .next()
+  .fadeIn(1000)
+  .end()
+  .appendTo('#slideshow');
+}, 3000);
+```
+>[link to code](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
